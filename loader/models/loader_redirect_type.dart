@@ -1,0 +1,4 @@
+enum LoaderRedirectType {
+  onboarding,
+  auth,
+}
